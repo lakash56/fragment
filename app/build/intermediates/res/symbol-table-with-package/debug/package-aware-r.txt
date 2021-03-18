@@ -689,9 +689,8 @@ id end_padder
 id expand_activities_button
 id expanded_menu
 id forever
-id fragment
+id fragment_container
 id fragment_header
-id fragment_header2
 id gone
 id groups
 id home
@@ -719,6 +718,7 @@ id normal
 id notification_background
 id notification_main_column
 id notification_main_column_container
+id open_button
 id packed
 id parent
 id parentPanel
@@ -729,7 +729,6 @@ id radio
 id radio_button_no
 id radio_button_yes
 id radio_group
-id ratingBar
 id right
 id right_icon
 id right_side
