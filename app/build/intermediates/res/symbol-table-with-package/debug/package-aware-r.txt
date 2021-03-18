@@ -691,6 +691,7 @@ id expanded_menu
 id forever
 id fragment
 id fragment_header
+id fragment_header2
 id gone
 id groups
 id home
@@ -728,6 +729,7 @@ id radio
 id radio_button_no
 id radio_button_yes
 id radio_group
+id ratingBar
 id right
 id right_icon
 id right_side
@@ -871,7 +873,9 @@ string article1
 string article2
 string close
 string exception_message
+string fragment_rating
 string hello_blank_fragment
+string my_rating
 string no
 string no_message
 string open
