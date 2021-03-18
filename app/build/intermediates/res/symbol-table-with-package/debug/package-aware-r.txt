@@ -664,6 +664,7 @@ id add
 id alertTitle
 id always
 id article
+id article2
 id async
 id barrier
 id beginning
@@ -713,6 +714,7 @@ id message
 id middle
 id multiply
 id never
+id nex_button
 id none
 id normal
 id notification_background
@@ -723,6 +725,7 @@ id packed
 id parent
 id parentPanel
 id percent
+id pre_button
 id progress_circular
 id progress_horizontal
 id radio
@@ -770,6 +773,7 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id time
 id title
+id title2
 id titleDividerNoCustom
 id title_template
 id top
@@ -813,6 +817,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout activity_main
+layout activity_main2
 layout fragment_simple
 layout notification_action
 layout notification_action_tombstone
@@ -875,9 +880,11 @@ string exception_message
 string fragment_rating
 string hello_blank_fragment
 string my_rating
+string nex_button
 string no
 string no_message
 string open
+string pre_button
 string question_article
 string search_menu_title
 string status_bar_notification_info_overflow

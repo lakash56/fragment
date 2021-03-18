@@ -1,5 +1,6 @@
 package com.example.android.fragmentexample;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
@@ -92,5 +93,11 @@ public class MainActivity extends AppCompatActivity {
         // Save the state of the fragment (true=open, false=closed).
         savedInstanceState.putBoolean(STATE_FRAGMENT, isFragmentDisplayed);
         super.onSaveInstanceState(savedInstanceState);
+    }
+
+
+    public void LaunchSecondActivity(View view) {
+        Intent intent = new Intent(MainActivity.this,MainActivity2.class);
+        startActivity(intent);
     }
 }

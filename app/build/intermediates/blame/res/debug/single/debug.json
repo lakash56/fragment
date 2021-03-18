@@ -396,6 +396,10 @@
         "source": "C:\\Users\\hp\\AndroidStudioProjects\\FragmentExample1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\FragmentExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\FragmentExample1\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
         "merged": "C:\\Users\\hp\\AndroidStudioProjects\\FragmentExample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\b7f7b8504553829c558069ab42268e9d\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },

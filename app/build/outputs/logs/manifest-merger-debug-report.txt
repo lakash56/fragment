@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:18:1-37:12
-INJECTED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:18:1-37:12
-INJECTED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:18:1-37:12
-INJECTED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:18:1-37:12
+ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:2:1-22:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b7f7b8504553829c558069ab42268e9d\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b653af3d305a962cf3e58dfd20bbcd24\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\71595dc93c30987c04585528a5ba83ae\AndroidManifest.xml:17:1-31:12
@@ -15,25 +15,25 @@ MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\hp\.gradle\
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5609920acaae126ced8b16892415bdd6\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\73e15f0d4fdb671e3ced6a8668d735fe\AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f8a906bdb74fd28fa7d5dab381f9bee5\AndroidManifest.xml:17:1-30:12
-INJECTED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:18:1-37:12
-INJECTED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:18:1-37:12
-INJECTED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:2:1-22:12
 	package
-		ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:19:5-50
+		ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:3:5-50
 		INJECTED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:18:1-37:12
+		ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:2:1-22:12
 		INJECTED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:18:1-37:12
+		ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:2:1-22:12
 		INJECTED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:18:11-69
+		ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:21:5-35:19
+ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:5:5-20:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b7f7b8504553829c558069ab42268e9d\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b7f7b8504553829c558069ab42268e9d\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b653af3d305a962cf3e58dfd20bbcd24\AndroidManifest.xml:25:5-29:19
@@ -57,31 +57,35 @@ MERGED from [com.android.support:support-compat:26.1.0] C:\Users\hp\.gradle\cach
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f8a906bdb74fd28fa7d5dab381f9bee5\AndroidManifest.xml:24:5-28:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f8a906bdb74fd28fa7d5dab381f9bee5\AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:26:9-35
+		ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:24:9-41
+		ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:25:9-54
+		ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:23:9-43
+		ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:22:9-35
+		ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:27:9-40
+		ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.android.fragmentexample.MainActivity2
+ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:12:9-60
+	android:name
+		ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:12:19-48
 activity#com.example.android.fragmentexample.MainActivity
-ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:28:9-34:20
+ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:13:9-19:20
 	android:name
-		ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:28:19-47
+		ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:13:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:29:13-33:29
+ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:30:17-69
+ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:30:25-66
+		ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:32:17-77
+ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:32:27-74
+		ADDED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml:17:27-74
 uses-sdk
 INJECTED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\hp\AndroidStudioProjects\FragmentExample1\app\src\main\AndroidManifest.xml
